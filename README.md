@@ -1,6 +1,9 @@
 ## Hi there 👋
 Katie
 This repository is about a little boy named Don
+
+# Halloween Candy
+My favorite Halloween candy are KitKats
 <!--
 **k80dinh/k80dinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
